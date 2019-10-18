@@ -1,2 +1,2 @@
 # js-click
-Click on an element using javascript. Implements all events for those sites that don't like "click"
+Click on an element using javascript. js-click dispatches all of the correct events to help with code that just wont ```.click()```.
